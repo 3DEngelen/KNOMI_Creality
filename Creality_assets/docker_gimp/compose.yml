@@ -1,0 +1,18 @@
+---
+services:
+  gimp:
+    image: lscr.io/linuxserver/gimp:latest
+    container_name: gimp
+    security_opt:
+      - seccomp:unconfined #optional
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+    volumes:
+      - /path/to/config:/config
+      - F:\Creality\KNOMI_Creality:/images
+    ports:
+      - 3000:3000
+      - 3001:3001
+    restart: unless-stopped
