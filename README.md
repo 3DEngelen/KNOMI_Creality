@@ -1,6 +1,8 @@
 # Knomi Creality Logo Firmware
 This repository hosts a firmware version for the knomi V2 WIth Creality logo instead of he Voron Logo.
-<img src=Images/Dummy_13_Creality.png width="400" /><br/>
+<div align="center">
+  <img src=Images/Dummy_13_Creality.png width="400" /><br/>
+</div>
 
 
 ## KNOMI2
