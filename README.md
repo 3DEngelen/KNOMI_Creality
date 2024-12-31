@@ -1,13 +1,15 @@
 # Knomi Creality Logo Firmware
 This repository hosts a firmware version for the knomi V2 WIth Creality logo instead of he Voron Logo.
 <div align="center">
-  <img src=Images/Dummy_13_Creality.png width="400" /><br/>
+  <img src=Images/Knomi_creality_logo_small.png width="400" /><br/>
 </div>
 
 
 ## KNOMI2
 Online manual ：[here](https://bigtreetech.github.io/docs/KNOMI2.html#)
 
+## USB-C Connector backpack
+USB-C connection Backpack for much cleaner cable management : [here](https://www.crealitycloud.com/model-detail/6773964a06c912fef1ab5fc2)
 
 
 
